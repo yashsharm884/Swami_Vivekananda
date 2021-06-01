@@ -1,0 +1,123 @@
+*
+{
+    margin: 0%;
+    padding: 0%;
+    list-style: none;
+    text-decoration: none ;
+}
+
+.header
+{
+    width: 100%;
+    height: 80px;
+    display: block;
+    background-color: #101010;
+
+}
+
+.inner_header
+{
+    width: 1000px;
+    margin: 0 auto;
+    display: block;
+    height: 100%;
+    
+}
+
+.logo_container
+{
+    height: 100%;
+    display: table;
+    float: left;
+}
+
+.logo_container h1{
+    color: white;
+    height: 100%;
+    display: table-cell;
+    vertical-align: middle;
+    font-family: 'Montserrat';
+    font-size: 32px;
+    font-weight: 200px;
+}
+
+.logo_container span{
+    font-weight: 800px;
+}
+
+.navigation{
+    float: right;
+    height: 100%;
+}
+
+.navigation a{
+    height: 100%;
+    display: table;
+    float: left;
+    padding: 0px 20px;
+}
+
+.navigation a li{
+    display: table-cell;
+    vertical-align: middle;
+    height: 100%;
+    color: white;
+    font-family: 'Montserrat';
+    font-size: 16px;
+}
+.main_para
+{
+    background-color: #EBCAB7;
+}
+.swami_head
+{
+    font-size: 50px;
+}
+.para1
+{
+    margin-left: 50px;
+    margin-right: 50px;
+    font-size: 30px;
+    padding: 10px;
+
+}
+.footer
+{
+    background-color: #953b1d;
+    text-align: center;
+    color: white;
+    padding: 10px 20px;
+    height: 400px;
+}
+.footer a
+{
+    color: white;
+    padding: 0px 20px;
+}
+
+
+.footer a li
+{
+    float: right;
+    margin-right: 10px;
+    text-align: center;
+    display: block;
+    padding: 5px;
+  
+
+}
+
+
+.form123
+{
+    text-align: center;
+}
+
+
+
+
+
+
+
+
+
